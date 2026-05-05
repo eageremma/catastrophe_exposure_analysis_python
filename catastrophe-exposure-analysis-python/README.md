@@ -2,7 +2,7 @@
 
 ## Project overview
 
-This project simulates and analyses a property insurance exposure portfolio containing 15,000 property locations.  
+This project analyses a simulated property insurance exposure portfolio dataset containing 15,000 property locations.  
 It demonstrates a practical catastrophe exposure analytics workflow: data generation, cleaning, validation, risk scoring, exposure aggregation, and portfolio concentration visualisation.
 
 ## Business problem
