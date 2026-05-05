@@ -11,8 +11,8 @@ Insurers and reinsurers need to understand where insured values are concentrated
 
 ## What this project does
 
-1. Generates simulated UK-style property exposure data.
-2. Adds realistic data-quality issues such as missing postcodes, invalid coordinates, duplicated locations, inconsistent occupancy labels, and negative insured values.
+1. Simulates UK property exposure data.
+2. Validates data-quality issues such as missing postcodes, invalid coordinates, duplicated locations, inconsistent occupancy labels, and negative insured values.
 3. Cleans and validates exposure records.
 4. Calculates total insured value.
 5. Creates a simple catastrophe exposure risk score.
