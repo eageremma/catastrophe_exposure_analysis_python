@@ -1,7 +1,4 @@
 # Executive Report: Catastrophe Exposure Analysis
-
-Generated on: 2026-05-05 17:34
-
 ## 1. Objective
 
 The objective of this project is to build an end-to-end catastrophe exposure analysis workflow using simulated property exposure data. The analysis identifies portfolio concentration by geography, occupancy type, hazard zone, and risk category.
