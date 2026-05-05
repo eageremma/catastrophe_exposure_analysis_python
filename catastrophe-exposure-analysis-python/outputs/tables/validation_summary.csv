@@ -1,0 +1,10 @@
+validation_check,result
+Total records after deduplication,15000
+Duplicate location IDs remaining,0
+Missing postcode,120
+Missing or invalid coordinates,120
+Invalid occupancy type,0
+Invalid hazard zone,0
+Zero or negative total insured value,0
+Records marked valid,14761
+Records needing review,239

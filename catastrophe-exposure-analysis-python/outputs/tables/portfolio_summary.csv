@@ -1,0 +1,11 @@
+metric,value
+Number of records,"15,000"
+Number of valid records,"14,761"
+Number of unique regions,12
+Number of unique postcodes,"14,876"
+Total insured value,"£35,397,643,701"
+Average TIV,"£2,359,843"
+Median TIV,"£594,561"
+Maximum TIV,"£158,570,266"
+Share of TIV in High + Very High hazard zones,23.6%
+Share of TIV in top 5 regions,63.6%
